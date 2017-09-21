@@ -1,0 +1,9 @@
+<core:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
+		controllerName="zdb01.Page" xmlns:html="http://www.w3.org/1999/xhtml">
+	<Page title="Title">
+		<content>
+	         <Label text="Company Name"/>
+	         <Input id="idInput"/>
+		</content>
+	</Page>
+</core:View>
